@@ -1,4 +1,5 @@
-/* 
+/*  Not Boring Movies :- 
+
 Table: Cinema
 +----------------+----------+
 | Column Name    | Type     |
